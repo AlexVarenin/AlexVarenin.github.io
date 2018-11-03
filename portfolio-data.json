@@ -3,61 +3,61 @@
 		"id":"Tcqo8oX1q_M",
 		"category":[1],
 		"title":"Attack character",
-		"description":"Game animation\nTool: 3d Maya Render: Arnold Compositing: Nuke"
+		"description":"Game animation\nTool: 3d Maya\nRender: Arnold\nCompositing: Nuke"
 	},
 	{
 		"id":"TAQrXlyQ4PQ",
 		"category":[1],
 		"title":"Idle animation",
-		"description":"Cycle game animation\nTool: 3d Maya Render: Arnold Compositing: Nuke"
+		"description":"Cycle game animation\nTool: 3d Maya\nRender: Arnold\nCompositing: Nuke"
 	},
 	{
 		"id":"HfMtXqwDitw",
 		"category":[1],
 		"title":"Jump with obstacles",
-		"description":"Action animation Tool: Autodesk Maya Render: Arnold Compositing: Nuke"
+		"description":"Action animation\nTool: Autodesk Maya\nRender: Arnold\nCompositing: Nuke"
 	},
 	{
 		"id":"5GsDAUTBvTI",
 		"category":[1],
 		"title":"Walk cartoon animation",
-		"description":"Cycle animation Autodesk Maya Render: Arnold Compositing: Nuke"
+		"description":"Cycle animation\nTool: Autodesk Maya\nRender: Arnold\nCompositing: Nuke"
 	},
 	{
 		"id":"IU6TD6WwWgI",
 		"category":[1],
 		"title":"Female cartoon walk animation",
-		"description":"Cycle animation Autodesk Maya Render: Arnold Compositing: Nuke"
+		"description":"Cycle animation\nTool: Autodesk Maya\nRender: Arnold\nCompositing: Nuke"
 	},
 	{
 		"id":"_8LFVLQf1NU",
 		"category":[1],
 		"title":"Run animation",
-		"description":"Cycle animation Autodesk Maya Render: Arnold Compositing: Nuke"
+		"description":"Cycle animation\nTool: Autodesk Maya\nRender: Arnold\nCompositing: Nuke"
 	},
 	{
 		"id":"QYIS-7I4-Us",
 		"category":[1],
 		"title":"Female walk animation",
-		"description":"Cycle animation Autodesk Maya Render: Arnold Compositing: Nuke"
+		"description":"Cycle animation\nTool: Autodesk Maya\nRender: Arnold\nCompositing: Nuke"
 	},
 	{
 		"id":"IjOOK-uA8G4",
 		"category":[1],
 		"title":"Walk animation",
-		"description":"Cycle animation Autodesk Maya Render: Arnold Compositing: Nuke"
+		"description":"Cycle animation\nTool: Autodesk Maya\nRender: Arnold\nCompositing: Nuke"
 	},
 	{
 		"id":"FGcg2_uu7Hk",
 		"category":[1],
 		"title":"Time (cartoon)",
-		"description":"Modelling: ZBrush, Autodesk Maya UV: Headus UV Layout Rig, Animation: Autodesk Maya Render: V-Ray Compositing: Nuke"
+		"description":"Modelling: ZBrush, Autodesk Maya\nUV: Headus UV Layout\nRig, Animation: Autodesk Maya\nRender: V-Ray\nCompositing: Nuke"
 	},
 	{
 		"id":"Wrb2lAWoNmw",
 		"category":[2],
 		"title":"Facial rig - Ork head",
-		"description":"Blend shape calculation using expressions Tool: Autodesk Maya Render: Arnold"
+		"description":"Blend shape calculation using expressions\nTool: Autodesk Maya\nRender: Arnold"
 	},
 	{
 		"id":"Hdov9CdZIUc",
@@ -75,55 +75,55 @@
 		"id":"1zWR5SJm_ic",
 		"category":[3],
 		"title":"The wave destruction",
-		"description":"Using Particle system Tool: Autodesk Maya"
+		"description":"Using Particle system\nTool: Autodesk Maya"
 	},
 	{
 		"id":"k5hUp45aiWA",
 		"category":[3],
 		"title":"Simulation the close and the hair",
-		"description":"Using nHair, nClose Tool: Autodesk Maya Render: Mental Ray"
+		"description":"Using nHair, nClose\nTool: Autodesk Maya\nRender: Mental Ray"
 	},
 	{
 		"id":"XW_cBXgncbg",
 		"category":[3],
 		"title":"The torch simulation",
-		"description":"Using Fluids Tool: Autodesk Maya"
+		"description":"Using Fluids\nTool: Autodesk Maya"
 	},
 	{
 		"id":"CrJlt9JIQF4",
 		"category":[3],
 		"title":"The ocean simulation",
-		"description":"Using Fluids Tool: Autodesk Maya Render: V-Ray"
+		"description":"Using Fluids\nTool: Autodesk Maya\nRender: V-Ray"
 	},
 	{
 		"id":"fVWtSe5MNxo",
 		"category":[3],
 		"title":"The rose disappearing",
-		"description":"Using nParticles Tool: Autodesk Maya"
+		"description":"Using nParticles\nTool: Autodesk Maya"
 	},
 	{
 		"id":"9vfbZZN5QWE",
 		"category":[3],
 		"title":"The explosion",
-		"description":"Using Fluids Tool: Autodesk Maya"
+		"description":"Using Fluids\nTool: Autodesk Maya"
 	},
 	{
 		"id":"O_7DrH29M_E",
 		"category":[4],
 		"title":"Idle and attack animation",
-		"description":"Tool: Autodesk Maya Engine: UE4 Renger: UE4"
+		"description":"Tool: Autodesk Maya\nEngine: UE4\nRenger: UE4"
 	},
 	{
 		"id":"cYsvFTAsHDs",
 		"category":[4],
 		"title":"Car materials",
-		"description":"Tool: UE4 Render: UE4"
+		"description":"Tool: UE4\nRender: UE4"
 	},
 	{
 		"id":"7atTLETfV6Q",
 		"category":[4],
 		"title":"Character test (car)",
-		"description":"Adding custom character (car) Test: Physics Constraints, Radial Force, Destructible mesh Tool: UE4"
+		"description":"Adding custom character (car)\nTest: Physics Constraints, Radial Force, Destructible mesh\nTool: UE4"
 	},
 	{
 		"id":"eabKEAABZnc",
