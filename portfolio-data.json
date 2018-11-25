@@ -72,10 +72,22 @@
 		"description":"Tool: Autodesk Maya"
 	},
 	{
+		"id":"cojgFjM5BEM",
+		"category":[3],
+		"title":"Dynamic fur",
+		"description":"Using nClose system and xGen\nTool: Autodesk Maya\nRender: Arnold\nCompositing: Nuke"
+	},
+	{
+		"id":"84XJ9Qoxn4I",
+		"category":[3],
+		"title":"Jiggle system",
+		"description":"Using nParticle system\nTool: Autodesk Maya\nRender: Arnold"
+	},
+	{
 		"id":"1zWR5SJm_ic",
 		"category":[3],
 		"title":"The wave destruction",
-		"description":"Using Particle system\nTool: Autodesk Maya"
+		"description":"Using nParticle system\nTool: Autodesk Maya"
 	},
 	{
 		"id":"k5hUp45aiWA",
