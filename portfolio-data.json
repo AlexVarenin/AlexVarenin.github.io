@@ -87,13 +87,13 @@
 		"id":"1zWR5SJm_ic",
 		"category":[3],
 		"title":"The wave destruction",
-		"description":"Using nParticle system\nTool: Autodesk Maya"
+		"description":"Using nParticle, nClose systems, Bifrost, PullDownIt plugin\nTool: Autodesk Maya"
 	},
 	{
 		"id":"k5hUp45aiWA",
 		"category":[3],
 		"title":"Simulation the close and the hair",
-		"description":"Using nHair, nClose\nTool: Autodesk Maya\nRender: Mental Ray"
+		"description":"Using nHair, nClose systems\nTool: Autodesk Maya\nRender: Mental Ray"
 	},
 	{
 		"id":"XW_cBXgncbg",
@@ -111,7 +111,7 @@
 		"id":"fVWtSe5MNxo",
 		"category":[3],
 		"title":"The rose disappearing",
-		"description":"Using nParticles\nTool: Autodesk Maya"
+		"description":"Using nParticle system\nTool: Autodesk Maya"
 	},
 	{
 		"id":"9vfbZZN5QWE",
@@ -123,7 +123,7 @@
 		"id":"O_7DrH29M_E",
 		"category":[4],
 		"title":"Idle and attack animation",
-		"description":"Tool: Autodesk Maya\nEngine: UE4\nRenger: UE4"
+		"description":"Tool: Autodesk Maya (rig and animation)\nEngine: UE4\nRenger: UE4"
 	},
 	{
 		"id":"cYsvFTAsHDs",
